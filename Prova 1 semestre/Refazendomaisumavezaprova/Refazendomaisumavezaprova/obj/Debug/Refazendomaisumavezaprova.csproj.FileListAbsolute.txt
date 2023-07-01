@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\bin\Debug\Refazendomaisumavezaprova.exe.config
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\bin\Debug\Refazendomaisumavezaprova.exe
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\bin\Debug\Refazendomaisumavezaprova.pdb
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.AboutBox1.resources
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.Form1.resources
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.Properties.Resources.resources
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.exe
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.pdb
+C:\Users\joaop\source\repos\Refazendomaisumavezaprova\Refazendomaisumavezaprova\obj\Debug\Refazendomaisumavezaprova.Form2.resources

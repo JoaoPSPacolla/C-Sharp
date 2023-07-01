@@ -1,0 +1,132 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i, v[10];
+    for(i=0;i<10;i++){
+        printf("Digite o %d numero do vetor: ",i+1);
+        scanf("%d", &v[i]);
+    }
+    printf("\n\nO vetor digitado foi:\n ");
+    for(i=0;i<10;i++)
+        printf("%d\n",v[i]);
+    return 0;
+}
+
+///////////////////////////////////////////////////////////////////
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+   int i, tam, v[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+   tam = sizeof(v) / 4;
+   printf("\n\n O vetor tem %d posicoes e os numeros\n\n",tam);
+
+   for(i=0;i<tam;i++)
+   {
+       printf("%d\t", v[i]);
+       printf("\n\n");
+   }
+    return 0;
+}
+
+////////////////////////////////////////////////////////
+CERTO
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int v1[10], v2[10],i,soma;
+    for(i=0;i<10;i++)
+    {
+        printf("Digite o valor numero %d para o primeiro vetor: ", i+1);
+        scanf("%d",&v1[i]);
+    }
+    printf("\n\n");
+
+    for(i=0;i<10;i++)
+    {
+        printf("Digite o valor numero %d para o segundo vetor: ", i+1);
+        scanf("%d",&v2[i]);
+    }
+
+    printf("\n\n");
+
+    for(i=0;i<10;i++)
+    {
+        if(v1[i]==v2[i])
+            soma=0;
+            soma = v1[i]+v2[i];
+            printf("A soma da posição %d de ambos os vetores e %d\n",i+1,soma);
+    }
+    return 0;
+}
+
+//////////////////////////////////////////////////////////////////////
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int v[10],i,maior=0,menor;
+
+    for(i=0;i<10;i++){
+        printf("Digite o %d valor: ",i+1);
+        scanf("%d",&v[i]);
+    }
+
+    for(i=0;i<10;i++){
+        if(i==1)
+            maior=v[i];
+        if(v[i]>maior)
+            maior=v[i];
+    }
+    printf("\n\n");
+    for(i=0;i<10;i++){
+        if(i==0)
+            menor=v[i];
+        if(v[i]<menor)
+            menor=v[i];
+    }
+
+    printf("%d",maior);
+    printf("\n%d",menor);
+    return 0;
+}
+
+///////////////////////////////////////////////////////////////////////////////
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int v[10],razao,numero1,i,soma;
+
+    printf("Digite o primeiro numero \n");
+    scanf("%d",&numero1);
+
+    printf("Digite a razao da PA \n");
+    scanf("%d",&razao);
+
+    v[0] = numero1;
+
+    for (i=0;i<10;i++)
+    {
+        soma = v[i] + razao;
+        v[i+1] = soma;
+        printf("%d\n",soma);
+
+    }
+    return 0;
+}
+
+//////////////////////////////////////////////////////////////////////
+

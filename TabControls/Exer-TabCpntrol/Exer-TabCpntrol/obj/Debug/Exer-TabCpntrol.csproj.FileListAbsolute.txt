@@ -1,0 +1,11 @@
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\bin\Debug\Exer-TabCpntrol.exe.config
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\bin\Debug\Exer-TabCpntrol.exe
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\bin\Debug\Exer-TabCpntrol.pdb
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer-TabCpntrol.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer-TabCpntrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer_TabCpntrol.Form1.resources
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer_TabCpntrol.Properties.Resources.resources
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer-TabCpntrol.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer-TabCpntrol.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer-TabCpntrol.exe
+C:\Users\joaop\source\repos\Exer-TabCpntrol\Exer-TabCpntrol\obj\Debug\Exer-TabCpntrol.pdb

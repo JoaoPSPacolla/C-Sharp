@@ -1,0 +1,24 @@
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\bin\Debug\Data e arquivo.exe.config
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\bin\Debug\Data e arquivo.exe
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\bin\Debug\Data e arquivo.pdb
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.Form1.resources
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.Form2.resources
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.Properties.Resources.resources
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.exe
+C:\Users\aluno\source\repos\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.pdb
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.AssemblyReference.cache
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.Form1.resources
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.Form2.resources
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.SplashScreen.resources
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data_e_arquivo.Properties.Resources.resources
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.GenerateResource.cache
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.CoreCompileInputs.cache
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.exe
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.pdb
+D:\2023\Desktop\Data e arquivo\Data e arquivo\bin\Debug\Data e arquivo.exe.config
+D:\2023\Desktop\Data e arquivo\Data e arquivo\bin\Debug\Data e arquivo.exe
+D:\2023\Desktop\Data e arquivo\Data e arquivo\bin\Debug\Data e arquivo.pdb
+D:\2023\Desktop\Data e arquivo\Data e arquivo\obj\Debug\Data e arquivo.csproj.SuggestedBindingRedirects.cache

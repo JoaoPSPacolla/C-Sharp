@@ -1,0 +1,17 @@
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\bin\Debug\MegaExerdeTudo.exe.config
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\bin\Debug\MegaExerdeTudo.exe
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\bin\Debug\MegaExerdeTudo.pdb
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Form1.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Properties.Resources.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.exe
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.pdb
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.AboutBox1.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Form2.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Form3.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Form4.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Form5.resources
+C:\Users\joaop\source\repos\MegaExerdeTudo\MegaExerdeTudo\obj\Debug\MegaExerdeTudo.Form6.resources

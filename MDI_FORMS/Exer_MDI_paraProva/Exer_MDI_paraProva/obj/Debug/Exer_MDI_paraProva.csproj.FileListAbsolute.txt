@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\bin\Debug\Exer_MDI_paraProva.exe.config
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\bin\Debug\Exer_MDI_paraProva.exe
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\bin\Debug\Exer_MDI_paraProva.pdb
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.Form1.resources
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.Form2.resources
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.Form3.resources
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.Properties.Resources.resources
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.exe
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.pdb
+C:\Users\joaop\source\repos\Exer_MDI_paraProva\Exer_MDI_paraProva\obj\Debug\Exer_MDI_paraProva.AboutBox1.resources

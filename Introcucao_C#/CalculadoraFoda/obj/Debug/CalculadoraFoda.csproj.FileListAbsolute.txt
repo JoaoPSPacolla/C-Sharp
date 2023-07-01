@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\CalculadoraFoda\bin\Debug\CalculadoraFoda.exe.config
+C:\Users\aluno\source\repos\CalculadoraFoda\bin\Debug\CalculadoraFoda.exe.manifest
+C:\Users\aluno\source\repos\CalculadoraFoda\bin\Debug\CalculadoraFoda.application
+C:\Users\aluno\source\repos\CalculadoraFoda\bin\Debug\CalculadoraFoda.exe
+C:\Users\aluno\source\repos\CalculadoraFoda\bin\Debug\CalculadoraFoda.pdb
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.Form1.resources
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.Properties.Resources.resources
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.TrustInfo.xml
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.exe.manifest
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.application
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.exe
+C:\Users\aluno\source\repos\CalculadoraFoda\obj\Debug\CalculadoraFoda.pdb
